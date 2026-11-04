@@ -70,6 +70,4 @@ e apre una Merge Request verso `develop`. Seguiamo **Git Flow**: `main` resta
 protetto e non si tocca mai direttamente.
 
 - Mario Rossi *(esempio)*
-- Jacopo Camplone
-- Bruno Barbieri
-- _(aggiungi qui il tuo nome)_
+- Davide Danese
