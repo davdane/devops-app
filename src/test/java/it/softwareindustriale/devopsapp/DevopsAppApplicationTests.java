@@ -18,10 +18,6 @@ class DevopsAppApplicationTests {
 	private MockMvc mvc;
 
 	@Test
-	void contextLoads() {
-	}
-
-	@Test
 	void infoMostraIlNomeDellApp() throws Exception {
 		mvc.perform(get("/info"))
 			.andExpect(status().isOk())
